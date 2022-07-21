@@ -1,0 +1,22 @@
+Apply Ensemble Learning Methods on Datasets
+
+
+
+In this assignment, you have to implement three different Ensemble Learning Methods on any two of these models:
+       SVM, 
+       Logistic Regression, 
+       and K-NN.
+Visualize the insights derived from these algorithms. Compare and evaluate using appropriate performance metrics.
+       EL Methods:
+       Bagging.
+       Stacking.
+       Boosting.
+You may use any dataset of your choice from UCI Machine Learning Repository.
+I have attached a URL to help you understand EL Methods.
+
+Best of luck!
+
+Links Datasets:
+https://archive.ics.uci.edu/ml/datasets/
+Task-Documentation
+https://machinelearningmastery.com/tour-of-ensemble-learning-algorithms/
