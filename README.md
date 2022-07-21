@@ -1,4 +1,4 @@
-# Ensemble-Learning-Method-Higher-Education-Students-Performance-Evaluation-Dataset
+# Ensemble-Learning-Method-Higher-Education-Students-Performance-Evaluation-Datasete
 The assigned task is to perform Ensemble Learning Methods on provided dataset of Higher Education Students Performance Evaluation Dataset.This Dataset describes 32 attributes in which 1-10 of the data are the personal questions, 11-16. questions include family questions, and the remaining questions include education habits. It was compiled by Dean De Cock.More details of this dataset are described in the paper: YÄ±lmaz N., Sekeroglu B. (2020) Student Performance Classification Using Artificial Intelligence Techniques. In: Aliev R.,Kacprzyk J., Pedrycz W., Jamshidi M., Babanli M., Sadikoglu F. (eds) 10th International Conference on Theory and Application of Soft Computing, Computing with Words and Perceptions - ICSCCW-2019. ICSCCW 2019. Advances in Intelligent Systems and Computing, vol 1095. Springer, Cham.*<br>
 #Task Description Requirements:<br>
 Apply Ensemble Learning Methods on Datasets<br>
